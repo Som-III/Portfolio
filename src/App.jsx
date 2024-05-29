@@ -6,16 +6,17 @@ gsap.registerPlugin(TextPlugin);
 import Button from './components/Button';
 import Header from './components/Header';
 import Section from './components/Section';
+import Hero from './components/Hero';
 
 function App() {
   return (
     <>
       <div className='pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden'>
         <Header></Header>
-        <ButtonGradient/>
-        <Section></Section>
+        <Hero></Hero>
       </div>
-      <Button>balll</Button>
+      <ButtonGradient/>
+  
       
 
       
