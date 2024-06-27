@@ -1,0 +1,1 @@
+update section framer motion, it works kinda

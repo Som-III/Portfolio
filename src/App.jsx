@@ -15,6 +15,7 @@ function App() {
         <Header></Header>
         <Hero></Hero>
         <Hero></Hero>
+        <Hero></Hero>
       </div>
       <ButtonGradient/>
   
